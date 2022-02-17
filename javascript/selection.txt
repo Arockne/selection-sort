@@ -1,0 +1,20 @@
+Sort an array of numbers using selection sort
+
+selection sort
+- sorts an array
+  - by repeatedly finding the minimum element in input array
+  -putting at correct location in sorted array
+
+//i array
+//o sorted array
+//c none
+
+
+function selectionSort(array) {
+  //initialize sortedArray to be an empty array
+  //iterate over the array
+    //contain current element in array
+    //iterate over the array once again to be the next element
+      //if the current element is less than the next element than swap
+  //return sortedArray
+}
